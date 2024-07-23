@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "hafta2kapanisProjesi/1.0.0": {
+        "runtime": {
+          "hafta2kapanisProjesi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hafta2kapanisProjesi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

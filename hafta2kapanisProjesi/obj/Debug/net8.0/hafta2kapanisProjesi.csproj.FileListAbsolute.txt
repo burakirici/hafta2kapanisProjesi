@@ -1,0 +1,10 @@
+/Users/burakkirici/Desktop/Çalışmalar/hafta2kapanisProjesi/hafta2kapanisProjesi/bin/Debug/net8.0/hafta2kapanisProjesi
+/Users/burakkirici/Desktop/Çalışmalar/hafta2kapanisProjesi/hafta2kapanisProjesi/bin/Debug/net8.0/hafta2kapanisProjesi.dll
+/Users/burakkirici/Desktop/Çalışmalar/hafta2kapanisProjesi/hafta2kapanisProjesi/bin/Debug/net8.0/hafta2kapanisProjesi.pdb
+/Users/burakkirici/Desktop/Çalışmalar/hafta2kapanisProjesi/hafta2kapanisProjesi/obj/Debug/net8.0/hafta2kapanisProjesi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakkirici/Desktop/Çalışmalar/hafta2kapanisProjesi/hafta2kapanisProjesi/obj/Debug/net8.0/hafta2kapanisProjesi.AssemblyInfoInputs.cache
+/Users/burakkirici/Desktop/Çalışmalar/hafta2kapanisProjesi/hafta2kapanisProjesi/obj/Debug/net8.0/hafta2kapanisProjesi.AssemblyInfo.cs
+/Users/burakkirici/Desktop/Çalışmalar/hafta2kapanisProjesi/hafta2kapanisProjesi/obj/Debug/net8.0/hafta2kapanisProjesi.csproj.CoreCompileInputs.cache
+/Users/burakkirici/Desktop/Çalışmalar/hafta2kapanisProjesi/hafta2kapanisProjesi/obj/Debug/net8.0/hafta2kapanisProjesi.dll
+/Users/burakkirici/Desktop/Çalışmalar/hafta2kapanisProjesi/hafta2kapanisProjesi/obj/Debug/net8.0/refint/hafta2kapanisProjesi.dll
+/Users/burakkirici/Desktop/Çalışmalar/hafta2kapanisProjesi/hafta2kapanisProjesi/obj/Debug/net8.0/hafta2kapanisProjesi.pdb
